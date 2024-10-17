@@ -1,7 +1,7 @@
 # RT-CMD
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-1.14-blue.svg" alt="Version">
+  <img src="https://img.shields.io/badge/Version-2.13-blue.svg" alt="Version">
 </p>
 
 RT-CMD is a command-line tool written in **C++**
