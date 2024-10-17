@@ -12,7 +12,7 @@ You can download the latest version of **RT-CMD** and the required dependencies 
 
 ### Step 1: Download RT-CMD
 
-[Download RT-CMD v1.14](https://github.com/retrojan/rt-cmd/releases/download/rt-cmd/RT-CMDv1.14-Fixed.exe)
+[Download RT-CMD v2.13](https://github.com/retrojan/rt-cmd/releases/download/cmd/RT-CMDv2.13.exe)
 
 ### Step 2: Install Visual C++ Redistributables
 
