@@ -1,2 +1,0 @@
-C:\Users\Frimedox\source\repos\ConsoleApplication2\ConsoleApplication2\x64\Debug\libcurl.dll
-C:\Users\Frimedox\source\repos\ConsoleApplication2\ConsoleApplication2\x64\Debug\LibCurlShim.dll
