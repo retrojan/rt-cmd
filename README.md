@@ -26,5 +26,5 @@ If you haven't already installed the Visual C++ Redistributables, you will need 
 Once you install the redistributables, you're done! Now run the file `RT-CMDv2.13exe `, and if you did everything correctly, the console will open without errors
 
 ```bash
-./RT-CMDv1.14-Fixed.exe
+./RT-CMDv2.13.exe
 ```
