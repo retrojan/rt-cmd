@@ -5,7 +5,9 @@
 </p>
 
 RT-CMD is a command-line tool written in **C++**
+
 [Virustotal](https://www.virustotal.com/gui/file/f04d2ef1357d82cbefdb7866d881f1a9417ca1f6e3986dc6d28aadc36eac2faf?nocache=1)
+
 ## Installation
 
 You can download the latest version of **RT-CMD** and the required dependencies by following the steps below:
