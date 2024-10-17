@@ -1,6 +1,6 @@
 # RT-CMD
 
-<p align="center">
+<p align="cente">
   <img src="https://img.shields.io/badge/Version-2.13-blue.svg" alt="Version">
 </p>
 
