@@ -23,7 +23,7 @@ If you haven't already installed the Visual C++ Redistributables, you will need 
 
 ### Step 3: Run RT-CMD
 
-Once you install the redistributables, you're done! Now run the file `RT-CMDv1.14-Fixed.exe `, and if you did everything correctly, the console will open without errors
+Once you install the redistributables, you're done! Now run the file `RT-CMDv2.13exe `, and if you did everything correctly, the console will open without errors
 
 ```bash
 ./RT-CMDv1.14-Fixed.exe
