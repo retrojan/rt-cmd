@@ -4,28 +4,31 @@
   <img src="https://img.shields.io/badge/Version-2.13-blue.svg" alt="Version">
 </p>
 
-RT-CMD is a command-line tool written in **C++**
+RT-CMD Это небольшая консольная программа.
 
 [Virustotal](https://www.virustotal.com/gui/file/f04d2ef1357d82cbefdb7866d881f1a9417ca1f6e3986dc6d28aadc36eac2faf?nocache=1)
 
-## Installation
+## Установка
 
-You can download the latest version of **RT-CMD** and the required dependencies by following the steps below:
+Следуй этим шагам:
 
-### Step 1: Download RT-CMD
+
+### Шаг 1: Скачивание RT-CMD
+
+Ниже этого текста ссылка для скачивания
 
 [Download RT-CMD v2.13](https://github.com/retrojan/rt-cmd/releases/download/cmd/RT-CMDv2.13.exe)
 
-### Step 2: Install Visual C++ Redistributables
+### Шаг 2: Установка Visual C++ Redistributables
 
-If you haven't already installed the Visual C++ Redistributables, you will need both the x64 and x86 versions:
+Если вы еще не установили Visual C++ Redistributables, то установите их ниже под вашу разрядность системы.
 
 - [Download VC_redist.x64.exe](https://github.com/retrojan/rt-cmd/releases/download/rt-cmd/VC_redist.x64.exe) (for 64-bit systems)
 - [Download VC_redist.x86.exe](https://github.com/retrojan/rt-cmd/releases/download/rt-cmd/VC_redist.x86.exe) (for 32-bit systems)
 
-### Step 3: Run RT-CMD
+### 3 Шаг: Запуск RT-CMD
 
-Once you install the redistributables, you're done! Now run the file `RT-CMDv2.13exe `, and if you did everything correctly, the console will open without errors
+Отлично! Теперь можешь запускать файл `RT-CMDv2.13exe `, и если вы все сделали правильно, консоль откроется без ошибок
 
 ```bash
 ./RT-CMDv2.13.exe
