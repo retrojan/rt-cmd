@@ -13,9 +13,7 @@ RT-CMD Это небольшая консольная программа.
 Следуй этим шагам:
 
 
-### Шаг 1: Скачивание RT-CMD
-
-Ниже этого текста ссылка для скачивания
+### Шаг 1: Установка RT-CMD
 
 [Download RT-CMD v2.13](https://github.com/retrojan/rt-cmd/releases/download/cmd/RT-CMDv2.13.exe)
 
