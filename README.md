@@ -15,7 +15,7 @@ RT-CMD Это небольшая консольная программа.
 
 ### Шаг 1: Установка RT-CMD
 
-[Download RT-CMD v2.13](https://github.com/retrojan/rt-cmd/releases/download/cmd/RT-CMDv2.13.exe)
+[Download RT-CMD](https://github.com/retrojan/rt-cmd/releases/download/cmd/RT-CMDv2.13.exe)
 
 ### Шаг 2: Установка Visual C++ Redistributables
 
