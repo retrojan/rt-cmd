@@ -1,7 +1,7 @@
 # RT-CMD
 
 <p align="cente">
-  <img src="https://img.shields.io/badge/Version-2.13-blue.svg" alt="Version">
+  <img src="https://img.shields.io/badge/Version-3.14-blue.svg" alt="Version">
 </p>
 
 RT-CMD Это небольшая консольная программа.
