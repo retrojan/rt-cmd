@@ -21,8 +21,9 @@ RT-CMD Это небольшая консольная программа.
 
 Если вы еще не установили Visual C++ Redistributables, то установите их ниже под вашу разрядность системы.
 
-- [Download VC_redist.x64.exe](https://github.com/retrojan/rt-cmd/releases/download/rt-cmd/VC_redist.x64.exe) (for 64-bit systems)
-- [Download VC_redist.x86.exe](https://github.com/retrojan/rt-cmd/releases/download/rt-cmd/VC_redist.x86.exe) (for 32-bit systems)
+- [Download VC_redist.x64.exe](https://aka.ms/vs/17/release/vc_redist.x64.exe) (for 64-bit systems)
+- [Download VC_redist.x86.exe](https://aka.ms/vs/17/release/vc_redist.x86.exe) (for 32-bit systems)
+- [Download VC_redist.arm64.exe](https://aka.ms/vs/17/release/vc_redist.arm64.exe) (for arm64 systems)
 
 ### 3 Шаг: Запуск RT-CMD
 
