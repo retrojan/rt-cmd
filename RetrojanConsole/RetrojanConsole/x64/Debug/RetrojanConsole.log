@@ -1,0 +1,4 @@
+﻿  RetrojanConsole.cpp
+C:\Users\Frimedox\source\repos\RetrojanConsole\RetrojanConsole\RetrojanConsole.cpp(28,5): error C3861: setConsoleColor: идентификатор не найден
+C:\Users\Frimedox\source\repos\RetrojanConsole\RetrojanConsole\RetrojanConsole.cpp(31,5): error C3861: setConsoleColor: идентификатор не найден
+C:\Users\Frimedox\source\repos\RetrojanConsole\RetrojanConsole\RetrojanConsole.cpp(34,5): error C3861: setConsoleColor: идентификатор не найден
